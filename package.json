@@ -1,0 +1,22 @@
+{
+  "name": "goodmorningangel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crzyjcky/goodmorningangel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crzyjcky/goodmorningangel/issues"
+  },
+  "homepage": "https://github.com/crzyjcky/goodmorningangel#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
